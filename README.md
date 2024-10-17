@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a software developer with a focus on **C**, **
 - **Open Source Contributions**: I'm looking to contribute to projects related to network programming and parallel computing.
 
 ### 📫 How to Reach Me:
-- Feel free to connect with me on [LinkedIn](www.linkedin.com/in/fotis-katsaras-8a704726b) or drop me an email at [katsarasfotis99@gmail.com](mailto:katsarasfotis99@gmail.com).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fotis-katsaras-8a704726b) or drop me an email at [katsarasfotis99@gmail.com](mailto:katsarasfotis99@gmail.com).
 
 Thanks for stopping by! 🚀
 
